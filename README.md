@@ -1,4 +1,8 @@
-## Hi there 👋
+## GM / GN
+- 5️⃣ years+ in **React Native**
+- 🔬 Currently focusing on **Blockchain** technology
+- 🌱 Still green in **Solidity**
+- 🔭 Looking forward into **Web3** opportunity
 
 <!--
 **vendelocky/vendelocky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
